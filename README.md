@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdiviksha&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 
-- 🔭 I’m currently Pursuing on ****
+- 🔭 I’m currently Pursuing on **Bachelor of Technology in Information technology in SREC college of engineering**
 
 - 🌱 I’m currently learning **Back-End Development**
 
