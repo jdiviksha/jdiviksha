@@ -11,13 +11,11 @@
 
 - 🔭 I’m currently Pursuing on **Bachelor of Technology in Information technology in SREC college of engineering**
 
-- 🌱 I’m currently learning **Back-End Development**
+- 🌱 I’m currently learning **WEB Development**
 
 - 💬 Ask me about **Techie**
 
 - 📫 How to reach me **jdivikshamakthalinb@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
 
 ## Connect With Me
 <p align="left">
